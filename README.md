@@ -30,3 +30,7 @@ d'une partie pour un mot entre le client et le serveur
 
 Le serveur est l’adresse IP du serveur, service est le numéro de port à utiliser. Ces paramètres sont
 facultatifs, les valeurs par défaut sont, respectivement, localhost et 33016.
+
+## Licence
+
+Le code peuvent être utilisés et copiés librement à des fins non commerciales à condition que cet avis soit inclus. Ces fichiers sont fournis "tels quels" sans aucune garantie. Le téléchargement des fichiers signifie l'acceptation de ces conditions.
