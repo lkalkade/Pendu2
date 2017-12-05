@@ -1,6 +1,8 @@
 # Pendu2
 A simple client/server pendu application written in C.
 
+Programme réalisé en 1ère année de master
+
 ## Résumé
 
 Je vous présente mon petit programme de modèle client-serveur avec le jeu du pendu. Il est fait
